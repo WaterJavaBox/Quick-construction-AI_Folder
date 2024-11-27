@@ -1,0 +1,4 @@
+{
+    "promptFolder" : ["chat", "category", "think", "database"],
+    "promptType" : ["system", "message"]
+}
